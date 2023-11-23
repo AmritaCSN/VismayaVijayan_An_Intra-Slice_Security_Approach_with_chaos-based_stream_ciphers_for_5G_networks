@@ -1,0 +1,15 @@
+In Matlab:
+
+#run the command from the Matlab command line
+>> mem1 = memory
+>> filename
+>> mem2 = memory
+>> mem_used = (mem2.MemUsedMATLAB - mem1.MemUsedMATLAB)/(1024^2)
+#this will give memory in MB
+
+In python:
+
+#using the library time
+- import time
+- start_time = time.time()
+- elapsed_time = time.time() - start_time

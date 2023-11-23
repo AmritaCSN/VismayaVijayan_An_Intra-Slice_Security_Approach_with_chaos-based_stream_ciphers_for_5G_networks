@@ -1,0 +1,10 @@
+| No. | Filename                 | Size (in Pixels)  | Image Format | Image Name   | Dataset |
+|-----|--------------------------|-------------------|--------------|--------------|---------|
+| 1.  | 128 x 128.png            | 128 x 128 pixels  | .png         | baboon.png   | Set5    |
+| 2.  | 128_changed(1-bit).png   | 128 x 128 pixels  | .png         | butterfly.png| Set5    |
+| 3.  | 256 x 256.png            | 256 x 256 pixels  | .png         | butterfly.png| Set14   |
+| 4.  | 256_changed(1-bit).png   | 256 x 256 pixels  | .png         | butterfly.png| Set14   |
+| 5.  | 512 x 512.png            | 512 x 512 pixels  | .png         | lenna.png    | Set14   |
+| 6.  | 512_changed(1-bit).png   | 512 x 512 pixels  | .png         | lenna.png    | Set14   |
+| 7.  | 1024 x 1024.png          | 1024 x 1024 pixels| .png         | barbara.png  | Set14   |
+| 8.  | 1024_changed(1-bit).png  | 1024 x 1024 pixels| .png         | barbara.png  | Set14   |

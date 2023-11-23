@@ -1,0 +1,14 @@
+In matlab:
+
+#run the command from Matlab command line
+>> tic
+>> filename
+>> toc
+
+In python:
+
+#using the library psutil
+- import psutil
+- start_memory = psutil.virtual_memory().used
+- end_memory = psutil.virtual_memory().used
+- memory_used = end_memory - start_memory
