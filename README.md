@@ -1,7 +1,7 @@
 # An_Intra-Slice_Security_Approach_with_chaos-based_stream_ciphers_for_5G_networks
 This repository has the codes used for the implementation of the project "An intra-Slice security approach with chaos-based stream ciphers for 5G networks"
 ## Project Overview
-A image encryption scheme using the chaotic map 2D-LSCM for key stream generation and light weight ChaCha20 stream cipher for the encryption. This combination guarantees data confidentiality and security during transmission, particularly well-suited for resource-limited scenarios within the intra-slice domain. The swork includes a comprehensive security analysis of this proposed scheme and a comparative performance evaluation against alternative encryption schemes employing Baker’s map and Arnold’s cat map for key stream generation.
+A image encryption scheme using the chaotic map 2D-LSCM for key stream generation and light weight ChaCha20 stream cipher for the encryption. This combination guarantees data confidentiality and security during transmission, particularly well-suited for resource-limited scenarios within the intra-slice domain. This work includes a comprehensive security analysis of this proposed scheme and a comparative performance evaluation against alternative encryption schemes employing Baker’s map and Arnold’s cat map for key stream generation.
 ## Repository Overview
 
 This repository is divided into 2 sections:
