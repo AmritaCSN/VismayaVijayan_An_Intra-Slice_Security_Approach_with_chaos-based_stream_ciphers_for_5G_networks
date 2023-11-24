@@ -6,7 +6,7 @@ A image encryption scheme using the chaotic map 2D-LSCM for key stream generatio
 
 This repository is divided into 2 sections:
 
-1. **/src** folder: Contains 3 folders `/encryption_scheme`, `/key_generation_chaotic_maps` `/image_dataset`, and `/security_analysis`.
+1. **/src** folder: Contains 3 folders `/encryption_scheme`, `/key_generation_chaotic_maps`, `/image_dataset`, and `/security_analysis`.
 2. **Block Diagram of Proposed Scheme**: Contains the pictorial representation of the proposed scheme.
 
 /src folder contains the sub-folders:
@@ -42,9 +42,10 @@ This folder contains code for the implementation of security analysis in Matlab.
     - `Time_Analysis.txt`
     - `Memory_Analysis.txt`
 
-## Block Diagram of Proposed Scheme
+## Architectural Block Diagram
 
-The block diagram of the proposed encryption scheme.
+The block diagram of the proposed encryption scheme is shown in `/architecture_block_diagram.png`. ![Block Diagram](/architecture_block_diagram.png)
+
 
 
 
