@@ -44,7 +44,7 @@ This folder contains code for the implementation of security analysis in Matlab.
 
 ## Architectural Block Diagram
 
-The block diagram of the proposed encryption scheme is shown in `/architecture_block_diagram.png`. ![Block Diagram](/architecture_block_diagram.png)
+The block diagram of the proposed encryption scheme is shown in `/Architectural_block_diagram.png`. ![Block Diagram](/Architectural_block_diagram.png)
 
 
 
